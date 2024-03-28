@@ -1,6 +1,5 @@
 
 
 #Output :
-![Output]
 
-(./images/docker.PNG)
+![Output](./images/docker.PNG)
