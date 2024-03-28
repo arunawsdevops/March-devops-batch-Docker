@@ -23,4 +23,4 @@ Find the ssh connection command in AWS Console.
 
 # Adding screenshot to the README.md to verify the output
 
-![Screenshot](C:\Users\Lenovo\Pictures\delete-soon\assignment-done-docker-1.jpg)
+![assignment-done-docker-1](https://github.com/arunawsdevops/March-devops-batch-Docker/assets/130046861/1e88a717-66b2-44fe-bf9b-4a8969fbe1e6)
