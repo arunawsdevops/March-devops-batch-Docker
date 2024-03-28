@@ -20,3 +20,7 @@ Profile name should be [terraform-project-prod], Because we have given the profi
 
 # Connection to the Docker Server
 Find the ssh connection command in AWS Console. 
+
+# Adding screenshot to the README.md to verify the output
+
+![Screenshot](C:\Users\Lenovo\Pictures\delete-soon\assignment-done-docker-1.jpg)
