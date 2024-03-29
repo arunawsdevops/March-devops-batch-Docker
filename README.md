@@ -1,3 +1,6 @@
+# Adding docker server output to github.
+![Screenshot 2024-03-29 105425](https://github.com/arunawsdevops/March-devops-batch-Docker/assets/128041302/e3500494-b614-4e09-a322-22df464180b6)
+
 # Docker-server - Terraform
 To launch a Docker server in AWS Using Terraform
 
@@ -21,5 +24,4 @@ Profile name should be [terraform-project-prod], Because we have given the profi
 # Connection to the Docker Server
 Find the ssh connection command in AWS Console. 
 
-# Adding docker server output to github.
-![Screenshot 2024-03-29 105425](https://github.com/arunawsdevops/March-devops-batch-Docker/assets/128041302/e3500494-b614-4e09-a322-22df464180b6)
+
