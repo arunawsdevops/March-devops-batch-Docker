@@ -9,5 +9,5 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"
-  profile = "terraform-project-prod"
+  profile = "terraform-proj-dev"
 }
