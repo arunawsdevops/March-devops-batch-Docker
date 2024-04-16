@@ -1,3 +1,7 @@
+![Screenshot (21)](https://github.com/arunawsdevops/March-devops-batch-Docker/assets/163027516/9f07b3d1-de6e-4f3b-99f6-72463c2c4e4e)
+![Screenshot (20)](https://github.com/arunawsdevops/March-devops-batch-Docker/assets/163027516/d9e55ca6-a14c-4542-bd47-de4f1e8292b0)
+
+
 # Docker-server - Terraform
 To launch a Docker server in AWS Using Terraform
 
